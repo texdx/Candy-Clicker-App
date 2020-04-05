@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.crazydood.candyclicker"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Candy Clicker</name>
+
+  <description>
+      Click Candy and be a Candillionare!
+  </description>
+
+  <author href="sites.google.com/view/backupgames" email="backappgames@hotmail.com">
+      CrazyDood000
+  </author>
+  
+  <icon src="icon.png" />
+
+</widget>
